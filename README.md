@@ -11,7 +11,7 @@ This repo contains a collection of original automation tools and Web3 experiment
 - **Link**: See `inscription link.txt` for on-chain record
 
 ### 2. Nifty Gateway Entry Script *(Archived)*
-- Automates NFT raffle entries on Nifty Gateway with account creation, SMS verification, and high-frequency entry simulation.
+- Automates NFT raffle entries on Nifty Gateway with account creation, SMS verification, and high frequency entry simulation.
 - Uses multithreading and REST APIs for performance testing.
 
 ### 3. Murakami NFT Entry Bot *(Archived)*
