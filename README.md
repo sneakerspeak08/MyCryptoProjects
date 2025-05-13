@@ -26,16 +26,8 @@ This repo contains a collection of original automation tools and Web3 experiment
 - Monitors Unisat for real-time BRC-20 events and filters activity by token or rule.
 - Built as an alerting tool for inscription-based token launches.
 
-## 🧰 Core Skills Demonstrated
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Blockchain Platforms:** Bitcoin (Ordinals), Ethereum (NFTs)
-- **Tech Used:** REST APIs, Etherscan, Unisat, browser-based sequencing logic, multi-threading
-- **Specialties:** On-chain data automation, metadata parsing, NFT entry optimization, interactive blockchain UI
-- **Use Cases:** NFT automation, BRC-20 monitoring, Bitcoin app inscriptions, Web3 scalability tests
-
-## 👨‍💻 Author
+## Author
 
 **Ethan D. Schwalbach**  
 [LinkedIn](https://www.linkedin.com/in/ethan-schwalbach-8016b71b2/) • [GitHub](https://github.com/sneakerspeak08)
 
-> These projects reflect hands-on exploration at the edge of blockchain: what can be automated, what can scale, and what can live fully on-chain.
