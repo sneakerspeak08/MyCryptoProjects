@@ -7,7 +7,7 @@ This repo contains a collection of original automation tools and Web3 experiment
 ### 1. First-Ever Drum Machine & Audio on Bitcoin
 - **Description**: An interactive drum machine fully inscribed on the Bitcoin blockchain using Ordinals.
 - **Includes**: HTML UI, JS sequencer logic (`daw.js`), CSS styling, and on-chain inscription proof.
-- **Significance**: Demonstrates that not just art or metadata — but working, interactive applications — can exist fully on-chain.
+- **Significance**: Demonstrates that not just art or metadata, but working interactive applications that can exist fully on-chain.
 - **Link**: See `inscription link.txt` for on-chain record
 
 ### 2. Nifty Gateway Entry Script *(Archived)*
@@ -23,7 +23,7 @@ This repo contains a collection of original automation tools and Web3 experiment
 - Supports extensibility for custom sort/index tasks.
 
 ### 5.  `unisatmonitor.py` – BRC-20 Token Monitor *(Archived)*
-- Monitors Unisat for real-time BRC-20 events and filters activity by token or rule.
+- Monitors Unisat for real time BRC-20 events and filters activity by token or rule.
 - Built as an alerting tool for inscription-based token launches.
 
 ## Author
