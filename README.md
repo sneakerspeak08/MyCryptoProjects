@@ -4,7 +4,7 @@ This repo contains a collection of original automation tools and Web3 experiment
 
 ## 📦 Projects
 
-### 1. First-Ever Drum Machine & Audio on Bitcoin
+### 1. First Ever Drum Machine & Audio on Bitcoin
 - **Description**: An interactive drum machine fully inscribed on the Bitcoin blockchain using Ordinals.
 - **Includes**: HTML UI, JS sequencer logic (`daw.js`), CSS styling, and on-chain inscription proof.
 - **Significance**: Demonstrates that not just art or metadata, but working interactive applications that can exist fully on-chain.
